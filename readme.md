@@ -1,10 +1,10 @@
-![logo (3)](C:\Users\agraw\Downloads\logo (3).png)
+![logo (3)](https://github.com/BharatAgrawal-freelancer/On-Demand-Custom-Merch-Design-App/blob/main/logo%20(3).png)
 
 
 
-![Screenshot 2025-10-15 112215](C:\Users\agraw\OneDrive\Pictures\Screenshots\Screenshot 2025-10-15 112215.png)
+![Screenshot 2025-10-15 112215](https://github.com/BharatAgrawal-freelancer/On-Demand-Custom-Merch-Design-App/blob/main/Screenshot%202025-10-15%20112215.png)
 
-![Screenshot 2025-10-15 112234](C:\Users\agraw\OneDrive\Pictures\Screenshots\Screenshot 2025-10-15 112234.png)
+![Screenshot 2025-10-15 112234](https://github.com/BharatAgrawal-freelancer/On-Demand-Custom-Merch-Design-App/blob/main/Screenshot%202025-10-15%20112234.png)
 
 # PrintBazaar- On-Demand Custom Merch Design App
 
@@ -396,4 +396,5 @@ CLOUDINARY_API_KEY=your_key
 CLOUDINARY_API_SECRET=your_secret
 JWT_SECRET=your_secret_key
 GEMINI_API_KEY=your_gemini_key
+
 ```
