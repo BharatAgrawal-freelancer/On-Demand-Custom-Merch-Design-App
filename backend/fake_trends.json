@@ -1,0 +1,533 @@
+[
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004005"
+    },
+    "tag": "range",
+    "score": 511,
+    "sources": [
+      "http://www.turner.com/",
+      "https://www.williams.info/"
+    ],
+    "lastSeenAt": "2025-09-28T18:34:14.142111",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0003d"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001c"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005b"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00004"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.142125",
+    "updatedAt": "2025-10-10T18:34:14.142126"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004006"
+    },
+    "tag": "can",
+    "score": 791,
+    "sources": [
+      "https://bowen-jarvis.org/"
+    ],
+    "lastSeenAt": "2025-09-27T18:34:14.142296",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0003a"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00029"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.142299",
+    "updatedAt": "2025-10-10T18:34:14.142300"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004007"
+    },
+    "tag": "wife",
+    "score": 509,
+    "sources": [
+      "http://www.webb-patel.com/",
+      "http://www.foster.biz/"
+    ],
+    "lastSeenAt": "2025-09-17T18:34:14.142561",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00058"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0003e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00051"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.142564",
+    "updatedAt": "2025-10-10T18:34:14.142564"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004008"
+    },
+    "tag": "will",
+    "score": 799,
+    "sources": [
+      "http://www.alvarez.biz/",
+      "http://www.campbell-thompson.info/"
+    ],
+    "lastSeenAt": "2025-09-28T18:34:14.142761",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0004f"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00032"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00005"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.142764",
+    "updatedAt": "2025-10-10T18:34:14.142765"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004009"
+    },
+    "tag": "affect",
+    "score": 819,
+    "sources": [
+      "https://www.robertson-smith.com/",
+      "https://kim.com/",
+      "http://williams.com/"
+    ],
+    "lastSeenAt": "2025-10-01T18:34:14.142998",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0005f"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00012"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00037"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0002f"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00000"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143000",
+    "updatedAt": "2025-10-10T18:34:14.143001"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400a"
+    },
+    "tag": "agent",
+    "score": 924,
+    "sources": [
+      "https://frazier-larson.biz/",
+      "https://smith.biz/"
+    ],
+    "lastSeenAt": "2025-10-07T18:34:14.143168",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0003d"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00026"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00034"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143170",
+    "updatedAt": "2025-10-10T18:34:14.143171"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400b"
+    },
+    "tag": "arrive",
+    "score": 104,
+    "sources": [
+      "https://www.cantu.info/"
+    ],
+    "lastSeenAt": "2025-09-27T18:34:14.143321",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00001"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00005"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005c"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00042"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143323",
+    "updatedAt": "2025-10-10T18:34:14.143324"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400c"
+    },
+    "tag": "provide",
+    "score": 447,
+    "sources": [
+      "https://www.weaver.net/",
+      "http://perry.com/"
+    ],
+    "lastSeenAt": "2025-09-11T18:34:14.143449",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00032"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005a"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143451",
+    "updatedAt": "2025-10-10T18:34:14.143452"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400d"
+    },
+    "tag": "change",
+    "score": 980,
+    "sources": [
+      "http://jones-nielsen.info/"
+    ],
+    "lastSeenAt": "2025-09-12T18:34:14.143568",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00014"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00015"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00053"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00031"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001e"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143570",
+    "updatedAt": "2025-10-10T18:34:14.143571"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400e"
+    },
+    "tag": "true",
+    "score": 425,
+    "sources": [
+      "https://macdonald.com/",
+      "https://robinson.net/"
+    ],
+    "lastSeenAt": "2025-09-12T18:34:14.143899",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0003b"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0000a"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.143902",
+    "updatedAt": "2025-10-10T18:34:14.143903"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec89879497800400f"
+    },
+    "tag": "collection",
+    "score": 956,
+    "sources": [
+      "http://www.williams.com/",
+      "http://thompson-jones.biz/"
+    ],
+    "lastSeenAt": "2025-09-10T18:34:14.144165",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00000"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00010"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.144169",
+    "updatedAt": "2025-10-10T18:34:14.144170"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004010"
+    },
+    "tag": "sister",
+    "score": 696,
+    "sources": [
+      "http://brock.com/",
+      "http://www.clark.org/"
+    ],
+    "lastSeenAt": "2025-10-06T18:34:14.144594",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00053"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0004b"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0004f"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00019"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00060"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.144607",
+    "updatedAt": "2025-10-10T18:34:14.144608"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004011"
+    },
+    "tag": "care",
+    "score": 239,
+    "sources": [
+      "https://www.roy.biz/",
+      "https://www.shaffer.info/"
+    ],
+    "lastSeenAt": "2025-10-06T18:34:14.144982",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00027"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00049"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.144987",
+    "updatedAt": "2025-10-10T18:34:14.144988"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004012"
+    },
+    "tag": "whose",
+    "score": 550,
+    "sources": [
+      "https://pineda-powell.biz/",
+      "https://www.adams.com/"
+    ],
+    "lastSeenAt": "2025-10-03T18:34:14.145210",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00000"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00014"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005a"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00032"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001f"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.145214",
+    "updatedAt": "2025-10-10T18:34:14.145215"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004013"
+    },
+    "tag": "continue",
+    "score": 994,
+    "sources": [
+      "https://cuevas.com/"
+    ],
+    "lastSeenAt": "2025-09-28T18:34:14.145307",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0004e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00005"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001d"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0003e"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.145313",
+    "updatedAt": "2025-10-10T18:34:14.145314"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004014"
+    },
+    "tag": "probably",
+    "score": 843,
+    "sources": [
+      "http://dodson.com/",
+      "https://miranda.com/",
+      "http://smith.com/"
+    ],
+    "lastSeenAt": "2025-09-10T18:34:14.146182",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00042"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00035"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0003a"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.146195",
+    "updatedAt": "2025-10-10T18:34:14.146197"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004015"
+    },
+    "tag": "sing",
+    "score": 143,
+    "sources": [
+      "https://stewart.com/"
+    ],
+    "lastSeenAt": "2025-10-01T18:34:14.146718",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0003e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0001e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00045"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.146728",
+    "updatedAt": "2025-10-10T18:34:14.146730"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004016"
+    },
+    "tag": "up",
+    "score": 100,
+    "sources": [
+      "https://delacruz.com/"
+    ],
+    "lastSeenAt": "2025-09-21T18:34:14.147229",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0000c"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00024"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0000e"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.147237",
+    "updatedAt": "2025-10-10T18:34:14.147239"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004017"
+    },
+    "tag": "beautiful",
+    "score": 99,
+    "sources": [
+      "https://www.mitchell-horton.org/",
+      "http://www.heath.com/"
+    ],
+    "lastSeenAt": "2025-09-24T18:34:14.147864",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa0004a"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0003e"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00006"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00035"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00040"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.147874",
+    "updatedAt": "2025-10-10T18:34:14.147877"
+  },
+  {
+    "_id": {
+      "$oid": "68e9044ec898794978004018"
+    },
+    "tag": "its",
+    "score": 29,
+    "sources": [
+      "http://www.miller.com/"
+    ],
+    "lastSeenAt": "2025-10-09T18:34:14.148136",
+    "exampleDesigns": [
+      {
+        "$oid": "68e8dc22f2e09380baa00041"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00025"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0005d"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa00016"
+      },
+      {
+        "$oid": "68e8dc22f2e09380baa0004d"
+      }
+    ],
+    "createdAt": "2025-10-10T18:34:14.148143",
+    "updatedAt": "2025-10-10T18:34:14.148145"
+  }
+]

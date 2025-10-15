@@ -1,0 +1,64 @@
+GET  /api/health
+
+// Auth
+POST /api/auth/register
+POST /api/auth/login
+
+// User
+GET  /api/user/dashboard              (auth)
+GET  /api/user/profile/:userId
+PUT  /api/user/updateProfile          (auth)
+GET  /api/user/followers              (auth)
+GET  /api/user/following              (auth)
+GET  /api/user/likedPosts             (auth)
+GET  /api/user/complaints             (auth)
+
+// Products & Catalog
+GET  /api/products
+GET  /api/products/:productId
+
+// Designs & Editor
+GET    /api/designs                   (auth)
+POST   /api/designs                   (auth)
+GET    /api/designs/:designId         (auth)
+PATCH  /api/designs/:designId         (auth)
+POST   /api/designs/:designId/overlays    (auth)
+POST   /api/designs/:designId/versions    (auth)
+GET    /api/designs/:designId/versions    (auth)
+POST   /api/designs/:designId/collaborators (auth)
+
+// AI / Gemini
+POST /api/ai/generateTextOverlay      (auth)
+POST /api/ai/generateImageOverlay     (auth)
+GET  /api/ai/trends
+POST /api/ai/suggestTags              (auth)
+
+// Community
+GET  /api/community/feed
+GET  /api/community/:postId
+POST /api/community/create            (auth)
+
+// Search
+GET  /api/search?q=
+
+// Upload
+POST /api/upload                      (auth)
+
+// Orders / Cart
+GET  /api/orders/cart                 (auth)
+POST /api/orders/cart                 (auth)
+POST /api/orders/checkout             (auth)
+GET  /api/orders/user                 (auth)
+GET  /api/orders/:orderId             (auth)
+GET  /api/orders/batch/:batchId       (auth)
+
+// Trends
+GET  /api/trends
+
+// Admin (auth + admin)
+GET /api/admin/dashboard
+GET /api/admin/users
+GET /api/admin/products
+GET /api/admin/orders
+GET /api/admin/trends
+GET /api/admin/complaints

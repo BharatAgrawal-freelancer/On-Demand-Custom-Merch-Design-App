@@ -1,0 +1,57 @@
+/* Tailwind base with brand tokens, AOS + FontAwesome, global utilities */
+
+@import "aos/dist/aos.css";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "swiper/swiper-bundle.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Theme helpers */
+:root {
+  --pb-bg: #000000;
+  --pb-ink: #ffffff;
+  --pb-primary: #15bcf0; /* Zima */
+  --pb-primary-2: #5cd4f8; /* Athena */
+  --pb-deep: #064b75; /* Broadwater */
+  --pb-accent: #789c4c; /* Unakite */
+  --pb-muted: #d0e0e5; /* Breakwater */
+  --pb-fig: #542c3c; /* Fig */
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply font-sans bg-black text-white;
+}
+
+/* Card style inspired by the reference */
+.pb-card {
+  @apply bg-zinc-900/80 border border-zinc-800 rounded-2xl shadow-lg;
+}
+
+/* Button variants */
+.btn {
+  @apply inline-flex items-center justify-center rounded-xl px-4 py-2 font-semibold transition;
+}
+.btn-primary {
+  @apply bg-zima text-black hover:bg-athena;
+}
+.btn-ghost {
+  @apply bg-transparent text-white hover:bg-zinc-800;
+}
+.btn-accent {
+  @apply bg-unakite text-black hover:opacity-90;
+}
+
+/* Headline style */
+.headline {
+  @apply text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-tight;
+}
